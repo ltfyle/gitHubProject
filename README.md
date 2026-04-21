@@ -1,4 +1,5 @@
 # ETL PIPELINE REDDIT TO MONGODB
+Modified the readme file. I was here :P
 
 This project aims to create an ETL (Extract, Transform, Load) pipeline for extracting data from Reddit through its API and storing it in a MongoDB database. Reddit is a popular platform with a vast amount of user-generated content, making it an excellent source of data for various purposes, including research, analysis, and data-driven decision-making.
 
